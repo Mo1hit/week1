@@ -1,0 +1,1 @@
+git log --commit -n 5
